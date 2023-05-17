@@ -1,6 +1,6 @@
 ## Olá!! Seja bem vindo, eu me chamo  Randle.
 
-- 🔭  No momento estudando Análise e Desenvolvimento de Sistemas
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 No momento estou praticando  HTML, CSS, JavaScript e PHP
 - 😄 Pronouns: ele/dele
 
