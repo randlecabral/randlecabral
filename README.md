@@ -11,9 +11,6 @@
     <a href="https://instagram.com/randlecabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randlecabral&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
-</div>
 
 ## Tecnologias que utilizo no momento:
 
